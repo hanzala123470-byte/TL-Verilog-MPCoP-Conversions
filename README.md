@@ -11,3 +11,6 @@ Sequential logic ( standard lab conversions )
 3. bounded up down counter - makerchip.com/v106/ide/~0QWf6hxVj/p-058hgW
 4. traffic light controller - makerchip.com/v106/ide/~0QWf6hxVj/p-066hVy
 5. pwm generator - makerchip.com/v106/ide/~0QWf6hxVj/p-076hEV
+Advanced Datapaths (My eSim Projects Converted)
+1. pipelined mac unit - makerchip.com/v106/ide/~0QWf6hxVj/p-08qhOz
+2. 4 tap moving average filter - makerchip.com/v106/ide/~0QWf6hxVj/p-00ghJY
